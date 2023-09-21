@@ -1,0 +1,7 @@
+
+What is a remote repository? 
+- a remote repository is the true branch that developers branch off from.
+
+What is the difference between a merge and a rebase?
+ - merge is you are merging the code to a repository and rebase is  
+changing the base of your branch from one commit to another.
