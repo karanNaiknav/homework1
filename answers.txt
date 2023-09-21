@@ -1,9 +1,0 @@
-What is the difference between a merge and a rebase?
-
-Create a branch called "progress" and switch to it.
-Clear the context of "answers.txt"
-Paste the following into "answers.txt" and answer the question.
-What is a remote repository?
-
-Switch back to "main" and merge the main branch with the progress branch such that both your answers are in order in answers.txt
-Submit a link to your github project.
